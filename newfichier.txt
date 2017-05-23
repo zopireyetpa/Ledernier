@@ -1,12 +1,7 @@
-ouveau fichier(Le premier commit ajoute un fichier vide)
+Nouveau fichier(Le premier commit ajoute un fichier vide)
 premier  commit de jules 1/4
 deuxieme commit de houssem 2/4
-<<<<<<< HEAD
-triosieme commit de jules 3/4
-=======
 troisieme commit de valerie 3/4
 quatrième commit de valerie 4/4
 Je code du matin au soir et je fabrique un programme chaque jour
 Josephine
-
->>>>>>> a237dadc4fb072adf541a837b4b82a067d8135ee
