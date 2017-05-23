@@ -1,10 +1,8 @@
 nouveau fichier(Le premier commit ajoute un fichier vide)
 premier  commit de jules 1/4
 deuxieme commit de houssem 2/4
-<<<<<<< HEAD
 troisieme commit de valerie 3/4
 quatrième commit de valerie 4/4
-=======
 Je code du matin au soir et je fabrique un programme chaque jour
 Josephine
->>>>>>> 28e2e6c002122031f91e82c868af6fbe80aaae2b
+
